@@ -10,10 +10,9 @@ const inter = Inter({
 })
 
 export const metadata = {
-  title: "ModuleX - Advanced Xposed Module for Android",
+  title: "GrindrPlus",
   description:
-    "Enhance your Android experience with ModuleX, a powerful Xposed module for customization and optimization.",
-    generator: 'v0.dev'
+    "Enhance your Grindr experience with GrindrPlus"
 }
 
 export default function RootLayout({
